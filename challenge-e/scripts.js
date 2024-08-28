@@ -1,1 +1,5 @@
-console.log('Roles:', nwabisa.role, johanes.role, alex.role) 
+const nwabisa = 'CEO,'
+const johannes = 'Intern,'
+const alex = 'Head of Marketing'
+
+console.log('Roles:', nwabisa, johannes, alex); 
